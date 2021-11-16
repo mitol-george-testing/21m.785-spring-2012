@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theater"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Drama"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Creative Writing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2f2239dd-af66-2851-a15c-4df9ee13b8ce"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Playwrights' Workshop",
+  "course_description": "This course provides continued work in the development of play scripts for the theater. Writers work on sustained pieces in weekly workshop meetings, individual consultation with the instructor, and in collaboration with student actors, directors, and designers. Fully developed scripts are eligible for inclusion in the Playwrights' Workshop Production.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.785",
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
